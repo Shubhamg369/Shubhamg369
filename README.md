@@ -15,6 +15,8 @@ An exceptional software engineer new grad👨🏽‍💻 with a dazzling combina
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shubhamg369&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shubhamg369&icon=5&color=0)](https://visitcount.itsvg.in)
