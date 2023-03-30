@@ -1,5 +1,5 @@
 # 💫 About Me:
-An exceptional software engineer new grad👨🏽‍💻 with a dazzling combination of raw, untamed talent and limitless ambition✨<br><br>I've emerged from the crucible of academia 👨🏽‍🎓with a skill set that I've effortlessly conquered with complex algorithms and data structures, leaving lesser mortals quaking in their boots⚡️<br><br>I'm fluent in the love language of technology🛠️, turning binary whispers into symphonies of software architecture🎶<br><br>Armed with an insatiable thirst for knowledge🧬, and I'm prepared to challenge the status quo🔱<br><br>My passion for innovation is infectious with a boundless potential📊, and a desire to leave an indelible mark on the world of technology🪄 
+Software engineer new grad👨🏽‍💻 with a dazzling combination of raw, untamed talent and limitless ambition✨<br><br>I'm fluent in the language of technology🛠️, turning binary whispers into symphonies of software architecture🎶
 
 
 ## 🌐 Socials:
