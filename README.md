@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer new grad👨🏽‍💻 with a dazzling combination of raw, untamed talent and limitless ambition✨<br><br>I'm fluent in the language of technology🛠️, turning binary whispers into symphonies of software architecture🎶
+Software engineer new grad👨🏽‍💻
 
 
 ## 🌐 Socials:
