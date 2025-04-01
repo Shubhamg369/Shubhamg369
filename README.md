@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer new grad👨🏽‍💻
+Software engineer👨🏽‍💻
 
 
 ## 🌐 Socials:
