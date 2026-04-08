@@ -1,5 +1,5 @@
 # About Me:
-SBG-Comms👨🏽‍💻
+Software Engineer👨🏽‍💻
 
 
 ## Socials:
